@@ -6,7 +6,9 @@ It is a web application written in html/css/js.
 - Latitude, Longitude
 - Altitude _(*1)_
 - Gridsquare locator
-- Map with location 
+- Map with location
+
+ ![Desktop view](https://github.com/ondrahladik/web-gps-locator/blob/main/desktop.jpg)
 
 _*1:_ Altitude is displayed only on mobile. Cannot display altitude on PC.
 
