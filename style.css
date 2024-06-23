@@ -1,0 +1,43 @@
+		body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 40px;
+            background-color: lightgrey;
+        }
+        #gps-data {
+            font-size: 1.5em;
+            margin-top: 20px;
+        }
+        #error-message {
+            color: red;
+            margin-top: 20px;
+        }
+        #locator {
+            font-size: 1.2em;
+            color: green;
+            margin-top: 20px;
+        }
+        #map {
+            width: 60vh;
+            height: 60vh;
+            margin: 20px auto;
+        }
+
+        @media screen and (max-width: 600px) {
+            #map {
+                width: 40vh;
+                height: 40vh;
+            }
+
+            body {
+                margin-top: 20px;
+                overflow: hidden;
+            }
+        }
+
+        @media screen and (min-width: 600px) {
+            #altitude {
+                display: none;
+            }
+           
+        }
