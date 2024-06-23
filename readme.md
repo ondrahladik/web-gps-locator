@@ -10,6 +10,8 @@ It is a web application written in html/css/js.
 
  ![Desktop view](https://github.com/ondrahladik/web-gps-locator/blob/main/desktop.jpg)
 
+ <img src="[http://example.com/image.jpg](https://github.com/ondrahladik/web-gps-locator/blob/main/desktop.jpg)" alt="Desktop view" width="300" height="300">
+
 _*1:_ Altitude is displayed only on mobile. Cannot display altitude on PC.
 
 __If you upload files to your web hosting, keep in mind that you need to have https security on the website. Otherwise, GPS position initialization may not work properly.__
