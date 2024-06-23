@@ -2,7 +2,7 @@
 
 It is a web application written in html/css/js. 
 
-## The main functions are:
+### The main functions are:
 - Latitude, Longitude
 - Altitude _(*1)_
 - Gridsquare locator
