@@ -10,5 +10,7 @@ It is a web application written in html/css/js.
 
 _*1:_ Altitude is displayed only on mobile. Cannot display altitude on PC.
 
+__If you upload files to your web hosting, keep in mind that you need to have https security on the website. Otherwise, GPS position initialization may not work properly.__
+
 A demo application is available hereh
 [https://github.ok1kky.cz/loc/](https://github.ok1kky.cz/loc/)
